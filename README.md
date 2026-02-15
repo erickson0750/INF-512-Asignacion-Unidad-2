@@ -31,8 +31,5 @@ dotnet run
 - Radio debe ser mayor que 0
 - No se puede descontar más stock del disponible
 
-### Repositorio
-https://github.com/erickson0750/INF-512-Asignacion-Unidad-2
-
 ### Autor
-[Tu Nombre] - INF-512
+Erickson Cayetano Paredes - INF-512
