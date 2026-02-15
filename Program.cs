@@ -1,4 +1,9 @@
-﻿using System;
+﻿// INF-512 - Asignación Unidad 2
+// Encapsulación y Constructores en C#
+// Estudiante: Erickson Cayetano Paredes
+// Fecha: Febrero 2026
+
+using System;
 using System.Dynamic;
 using System.Net.NetworkInformation;
 
