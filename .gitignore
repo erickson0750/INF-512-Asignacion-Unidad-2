@@ -1,0 +1,11 @@
+# Carpetas compiladas
+bin/
+obj/
+
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Otros archivos
+*.cache
